@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.referencedLibraries": [
+        "C:/apache-tomcat-8.5.87/lib/**/*.jar",
+        "lib/**/*.jar",
+    ]
+}
